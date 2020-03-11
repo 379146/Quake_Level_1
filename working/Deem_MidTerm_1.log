@@ -1,0 +1,7 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: Deem_MidTerm_1.map
+Output file: Deem_MidTerm_1.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open Deem_MidTerm_1.map: No such file or directory
