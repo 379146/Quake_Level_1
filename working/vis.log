@@ -1,17 +1,17 @@
 ---- vis / ericw-tools v0.18.1 ----
 running with 8 threads
 testlevel = 4
-LoadBSPFile: 'Deem_MidTerm.bsp'
+LoadBSPFile: 'Deem_MidTerm2.bsp'
 BSP is version 29
-   131 leafs
-   459 portals
+   293 leafs
+  1030 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 124
+average leafs visible: 272
 c_noclip: 0
-c_chains: 447360
-visdatasize:2214  compressed from 2227
-Writing Deem_MidTerm.bsp as BSP version 29
-  0.3 seconds elapsed
+c_chains: 3898943
+visdatasize:10764  compressed from 10841
+Writing Deem_MidTerm2.bsp as BSP version 29
+  2.3 seconds elapsed
